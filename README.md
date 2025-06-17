@@ -40,6 +40,3 @@ This backend application supports the core functionalities required for an e-com
 
 ---
 
-
-Let me know if you also want a `schema.sql`, example `.env`, or Postman collection for testing!
-
